@@ -19,6 +19,6 @@ Once you fill in the "date" and "state" filters for example, and tab over or hit
 
 ## Summary
 
-The additional filters are helpful for anyone looking for a specific event or doing an investigation to get an understanding of the commanilities between the fields. For example, searching UFO sightings only in California, during the same month, and determining if they were all the same shape to show more credibility towards events. One drawback is that a user may not come in already knowing what they are looking for and the unfiltered table is pretty long. To improve the experience, some additional development can be done.
+The additional filters are helpful for anyone looking for a specific event or doing an investigation to get an understanding of the commanilities between the fields. For example, searching UFO sightings only in California, during the same month, and determining if they were all the same shape to show more credibility towards events. One drawback is that a user may not come in already knowing what they are looking for and the unfiltered table is pretty long. To improve the experience, some additional development can be done:
 1. Update the filters to include drop down menus based on what actually present in the data.
 2. Add a way to automatically clear/reset the filters to start over, instead of having to go back one by one to each field.
